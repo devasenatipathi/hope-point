@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #F4F1EE;
+    color: #2D2D2D;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  }
+}
+
+.bg-hd-canvas {
+  background-color: #F4F1EE;
+}
+
+.bg-hd-card {
+  background-color: #FFFFFF;
+}
+
+.bg-hd-muted {
+  background-color: #F9F8F6;
+}
+
+.bg-hd-dark {
+  background-color: #2D2D2D;
+}
+
+.bg-hd-teal {
+  background-color: #0D6B5E;
+}
+
+.text-hd-teal {
+  color: #0D6B5E;
+}
+
+.text-hd-main {
+  color: #2D2D2D;
+}
+
+.text-hd-sub {
+  color: #6B665F;
+}
+
+.text-hd-muted {
+  color: #9E978E;
+}
+
+.border-hd-border {
+  border-color: #E5E1DB;
+}
+
+.border-hd-teal {
+  border-color: #0D6B5E;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "HopePoint",
+  "description": "Centralized social care platform connecting NGOs, donors, sponsors, volunteers, and beneficiaries with smart resource matching and disability support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
